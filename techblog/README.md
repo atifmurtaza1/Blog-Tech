@@ -1,16 +1,64 @@
-# React + Vite
+# Tech Blog
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+A modern blog web application built with React. This project is a learning journey focused on building a complete blog application with a clean user interface and backend integration.
 
-Currently, two official plugins are available:
+## 🚀 Technologies
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- React
+- JavaScript
+- Vite
+- Appwrite
+- CSS
 
-## React Compiler
+## ✨ Planned Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- Create and publish blog posts
+- View and read blog articles
+- User authentication
+- Edit and delete posts
+- Responsive design
+- Backend integration with Appwrite
 
-## Expanding the Oxlint configuration
+## 💻 Getting Started
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/atifmurtaza1/Blog-Tech.git
+```
+
+### 2. Open the project folder
+
+```bash
+cd Blog-Tech
+```
+
+If the React project is inside the `techblog` folder, run:
+
+```bash
+cd techblog
+```
+
+### 3. Install dependencies
+
+```bash
+npm install
+```
+
+### 4. Start the development server
+
+```bash
+npm run dev
+```
+
+Open the local URL shown in your terminal.
+
+## 📌 Project Status
+
+Currently in development.
+
+## 👨‍💻 Author
+
+Atif Murtaza
+
+GitHub: https://github.com/atifmurtaza1
